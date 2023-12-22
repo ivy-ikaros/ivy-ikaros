@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - Likely not much at the moment. I am mostly familiarizing myself with Github still.
 - 📫 How to reach me ...
-- Twitter @ikaros-ivy, LinkedIn @ https://www.linkedin.com/in/caydan-atwood/!
+- LinkedIn @ https://www.linkedin.com/in/caydan-atwood/!
 
 <!---
 ivy-ikaros/ivy-ikaros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
